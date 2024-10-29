@@ -522,7 +522,3 @@ void vCoRoutineSchedule( void )
 **要想有真正的理解，光死读代码肯定不够，还是得想办法多用，现实总会出现一些意想不到得问题，但并非无法解决**
 
 **Good Luck To You !**
-
-作者：wow
-
-邮箱：1522019841@qq.com
